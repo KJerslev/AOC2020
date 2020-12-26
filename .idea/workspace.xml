@@ -2,18 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56a2be1b-f1fb-4fa8-af77-d30bab8c764c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/inputdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/inputdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/inputdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/testdata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/testdata2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/inputdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/inputdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/inputdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/inputdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/testdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04/testdata2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/inputdata.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05/testdata.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/inputdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1/testdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/inputdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2/testdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/inputdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3/testdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/inputdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/testdata.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4/testdata2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +64,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
-  <component name="RunManager" selected="Python.4">
+  <component name="RunManager" selected="Python.5">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AOC2020" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,8 +149,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AOC2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05/5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.5" />
         <item itemvalue="Python.4" />
         <item itemvalue="Python.3" />
         <item itemvalue="Python.2" />
